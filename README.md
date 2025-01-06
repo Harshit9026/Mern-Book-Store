@@ -70,11 +70,11 @@ This project is a **MERN Stack Online Book Store** application that offers featu
 
 ###Screenshots 📸:
 
-![Book Store ](https://raw.githubusercontent.com/Harshit9026/Mern-Book-Store/main/images/screenshot.png)
+![Book Store ](https://github.com/Harshit9026/Mern-Book-Store/blob/main/client/src/assets/WhatsApp%20Image%202025-01-06%20at%2014.46.29_d20c6b11.jpg?raw=true)
 
-![Book Store Dashoard](https://raw.githubusercontent.com/Harshit9026/Mern-Book-Store/main/images/screenshot.png)
+![Book Store Dashoard](https://github.com/Harshit9026/Mern-Book-Store/blob/main/client/src/assets/WhatsApp%20Image%202025-01-06%20at%2014.49.32_fd516e7a.jpg?raw=true)
 
-![Book Store Admin](https://raw.githubusercontent.com/Harshit9026/Mern-Book-Store/main/images/screenshot.png)
+![Book Store Admin](https://github.com/Harshit9026/Mern-Book-Store/blob/main/client/src/assets/WhatsApp%20Image%202025-01-06%20at%2014.49.53_01bbbf15.jpg?raw=true)
 
 
 
